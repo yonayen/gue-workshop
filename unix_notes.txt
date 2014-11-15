@@ -1,0 +1,500 @@
+  174  heroku logs --tail
+  175  heroku open
+  176  git add .
+  177  git commit -am "Heroku check"
+  178  git push
+  179  git push heroku master
+  180  heroku run rake db:migrate
+  181  git add .
+  182  git commit -am "Home Page Fix"
+  183  git push
+  184  git push heroku master
+  185  heroku open
+  186  git add .
+  187  git commit -am "Last push"
+  188  git push 
+  189  git push heroku master
+  190  heroku open
+  191  git add .
+  192  git commit -am "last last push"
+  193  git push
+  194  git push heroku master
+  195  heroku master
+  196  git push heroku master
+  197  heroku run rails console
+  198  rails server
+  199  rails server
+  200  rails server
+  201  irb
+  202  clear
+  203  clear
+  204  clear
+  205  ruby yonathan.rb
+  206  cd .
+  207  cd ~/Desktop
+  208  ruby yonathan.rb
+  209  irb
+  210  ruby yonathan.rb
+  211  clear
+  212  irb
+  213  ruby yonathan.rb
+  214  ruby yonathan.rb
+  215  clear
+  216  ruby yonathan.rb
+  217  clear
+  218  ruby hardway.rb
+  219  clear
+  220  ruby hardway.rb
+  221  clear
+  222  ruby hardway.rb
+  223  clear
+  224  vim
+  225  ~/Desktop
+  226  ~/desktop
+  227  cd ~/Desktop
+  228  irb
+  229  cd book_in_stock
+  230  cd drax
+  231  require "./book_in_stock"
+  232  irb
+  233  clear
+  234  python
+  235  clear
+  236  python
+  237  cd ..
+  238  cd ..
+  239  cd exercise files
+  240  cd Exercise Files
+  241  cd Exercise Files
+  242  cd Exercise_Files
+  243  cd Exercise Files
+  244  ls
+  245  cd Exercise Files
+  246  ls
+  247  cd ExerciseFiles
+  248  clear
+  249  python
+  250  sudo easy_install pip
+  251  sudo pip install virtual env
+  252  virtualenv MamaBear
+  253  pip freeze
+  254  sudo easy_install django --upgrade
+  255  clear
+  256  sudo easy_install pip
+  257  sudo pip install virtualenv
+  258  clera
+  259  clear
+  260  virtualenv MamaBear
+  261  cd MamaBear
+  262  cd .
+  263  cd ..
+  264  cd MamaBear
+  265  ls
+  266  cd ..
+  267  source bin/activate
+  268  cd MamaBear
+  269  source bin/activate
+  270  pip freeze
+  271  pip install django
+  272   clear
+  273  pip freeze
+  274  pip install django --upgrade
+  275  pip freeze
+  276  django-admin.py startproject MamaBear
+  277  ls
+  278  cd MamaBear
+  279  ls
+  280  ls
+  281  python manage.py runserver
+  282  python manage.py migrate
+  283  python manage.py runserver
+  284  clear
+  285  cd ..
+  286  cd ..
+  287  clear
+  288  sudo easy_install pip
+  289  sudo pip install virtualenv
+  290  vlear
+  291  clear
+  292  virtualenv MamaBear
+  293  pwd
+  294  ls
+  295  cd Dropbox
+  296  cd ..
+  297  cd MamaBear
+  298  ls
+  299  clear
+  300  source bin/activate
+  301  pip freeze
+  302  pip install django
+  303  pip freeze
+  304  pip install django --upgrade
+  305  cd ../
+  306  cd MamaBear
+  307  django-admin.py startproject
+  308  django-admin.py startprojectCodeMamaBear
+  309  django-admin.py startproject CodeMamaBear
+  310  python manage.py runserver
+  311  cd CodeMamaBear
+  312  python manage.py runserver
+  313  python manage.py migrate
+  314  pythonmanage.py runserver
+  315  python manage.py runserver
+  316  clear
+  317  cd ..
+  318  cd ..
+  319  virtualenv Alex
+  320  cd Alex
+  321  source bin/activate
+  322  pip freeze
+  323  pip install django
+  324  django-admin.py Junto
+  325  django-admin.py startproject Junto
+  326  ls
+  327  cd Junto
+  328  ls
+  329  python manage.py runserver
+  330  python manage.py migrate
+  331  python manage.py runserver
+  332  pip install south django-registration stripe
+  333  python manage.py syncdb
+  334  python manage.py syncdb
+  335  python manage.py runserver
+  336  cd ..
+  337  cd ..
+  338  theoatmeal.com-downloader.py
+  339  python theoatmeal.com-downloader.py
+  340  clear
+  341  python theoatmeal.py
+  342  ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  343  subl
+  344  clear
+  345  in ~/Library/Applicaiton Support/Sublime Text 2/Packages [1] $ ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+  346  in ~/Library/Applicaiton Support/Sublime Text 2/Packages [1] $ ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+  347  clear
+  348  ls
+  349  ls -l
+  350  ls -a
+  351  ls /etc
+  352  ls -l /etc
+  353  ls -l/etc
+  354  ls -l /etc
+  355  pwd
+  356  ls
+  357  cd Desktop
+  358  ls
+  359  cd Dropbox
+  360  cd ..
+  361  cd .
+  362  cd ..
+  363  cd Desktop/
+  364  git --version
+  365  git init
+  366  ls
+  367  cd Desktop
+  368  git init my_first_repository
+  369  ls
+  370  mv my_first_repository/ cooler_project
+  371  cd cooler_project
+  372  ls
+  373  ls -a
+  374  cd ~
+  375  cd Desktop
+  376  mv cooler_project/ gitwork
+  377  cd gitwork
+  378  subl README
+  379  git add README
+  380  ls
+  381  ls
+  382  git add README
+  383  git commit
+  384  git config --global
+  385  git config --global user.name "Yonathan Ayenew"
+  386  git config --global user.email "yonayen@gmail.com"
+  387  subl README
+  388  git commit -a -m "Added project mission statement"
+  389  git status
+  390  ls
+  391  touch file1
+  392  touch file2
+  393  touch file3
+  394  git status
+  395  git add file1
+  396  git stauts
+  397  git status
+  398  git add file2 
+  399  git add file3
+  400  git status
+  401  git commit -m "Add new project files"
+  402  git add file1
+  403  git sttus
+  404  git status
+  405  git log
+  406  git checkout 7557
+  407  ls
+  408  cat file1
+  409  git add file1
+  410  touch 1
+  411  touch file1
+  412  ls
+  413  cat file1
+  414  cat 1
+  415  cat README
+  416  git checkout master
+  417  git add file1
+  418  git add 1
+  419  git commit file1
+  420  git log
+  421  touch arsenal
+  422  touch chelsea
+  423  touch liverpool
+  424  ls
+  425  git log
+  426  clear
+  427  git checkout 557
+  428  git checkout 7557
+  429  ls
+  430  cat arsenal
+  431  cat chelsea
+  432  git checkout master
+  433  git status
+  434  git add
+  435  git add arsenal
+  436  git add chelsea
+  437  git add filetwo
+  438  git add liverpool
+  439  git commit -a -m "all commits""
+  440  git status
+  441  git add arsenal
+  442  git add chelsea
+  443  git add filetwo
+  444  git add liverpool
+  445  git commit -a -m "all commits"
+  446  git status
+  447  clear
+  448  git branch foo_feature
+  449  git status
+  450  git checkout foo_feature
+  451  git status
+  452  git branch
+  453  git branch master
+  454  git branch
+  455  git checkout master
+  456  git merge foo_feature
+  457  cd ..
+  458  git clone Desktop/gitwork
+  459  git clone gitwork
+  460  git clone ~/gitwork
+  461  git clone ~/Desktop/gitwork
+  462  ls
+  463  cd gitwork
+  464  git clone arsenal
+  465  git clone arsenal arse
+  466  cd ..
+  467  git clone gitwork arse
+  468  cd arse
+  469  ls
+  470  cd ..
+  471  git remote
+  472  cd arse
+  473  git remote
+  474  cd ..
+  475  cd gitwork
+  476  git remote add arse Desktop/arse
+  477  git remote
+  478  cd ..
+  479  cd gitwork
+  480  cd ..
+  481  cd arse
+  482  git checkout -b new_feature
+  483  subl arsenal
+  484  git commit -a -m "Edit Arsenal"
+  485  git push
+  486  git push --set-upstream origin new_feature
+  487  git push origin new_feature
+  488  cd Desktop/gitwork
+  489  cd ..
+  490  cd gitwork
+  491  git branch
+  492  git checkout new_feature
+  493  git log
+  494  cd ..
+  495  cd arse
+  496  git pull origin new_feature
+  497  clear
+  498  clear
+  499  subl
+  500  cd ..
+  501  clear
+  502  clear
+  503  pwd
+  504  cd /arse
+  505  cd Desktop/arse
+  506  clear
+  507  pwd
+  508  cd pwd
+  509  cd /Users/Yon/Desktop
+  510  cd /Users/Yon/Desktop/arse
+  511  cd ..
+  512  pwd
+  513  cd /
+  514  pwd
+  515  cd Yon
+  516  cd /Users/Yon
+  517  cd /
+  518  pwd
+  519  ls
+  520  t
+  521  ls -t
+  522  ls
+  523  ls -l
+  524  ls -lt
+  525  ls -r
+  526  ls -tr
+  527  ls -rt
+  528  ls -lrt
+  529  ls help
+  530  ls
+  531  help ls
+  532  man ls
+  533  ls -c
+  534  ls -m
+  535  ls-p
+  536  ls -p
+  537  ls -S
+  538  ls -U
+  539  man ls
+  540  ls -G
+  541  man ls
+  542  ls -c
+  543  ls -SUG
+  544  ls -lh
+  545  ls -m
+  546  ls -1
+  547  ls -GUSp
+  548  ls -lrS
+  549  ls -Sm
+  550  ls -cm
+  551  cd /
+  552  pws
+  553  pwd
+  554  cd /
+  555  pwd
+  556  pwd
+  557  cd /Users/Yon
+  558  ls
+  559  cd Applications
+  560  cd ..
+  561  cd Desktop
+  562  ls
+  563  cd Alex/
+  564  cd ..
+  565  pwd
+  566  ls
+  567  cd MamaBear
+  568  ls
+  569  cd CodeMamaBear
+  570  ls
+  571  cd CodeMamaBear
+  572  pwd
+  573  ls
+  574  pwd
+  575  cd .
+  576  cd .
+  577  cd .
+  578  cd ..
+  579  cd ..
+  580  cd ..
+  581  cd ../..
+  582  cd /Users/Yon/Desktop
+  583  cd ../Applications
+  584  cd ../Desktop
+  585  pwd
+  586  ls
+  587  cd Dropbox
+  588  ls
+  589  cd OLDFACES
+  590  ls
+  591  ls
+  592  cd ..
+  593  cd HWiE
+  594  pwd
+  595  ls
+  596  cd ..
+  597  ls
+  598  cd personal
+  599  ls
+  600  cd APFM\ files
+  601  cd ..
+  602  cd ..
+  603  cd ../arse
+  604  cd ../Dropbox
+  605  ls
+  606  pwd
+  607  ls
+  608  cd personal/
+  609  ls
+  610  cd Lydia\ Immig./
+  611  ls
+  612  ls
+  613  cd ..
+  614  cd ..
+  615  cd ../Alex/
+  616  ls
+  617  cd Junto/
+  618  ls
+  619  cd Junto/
+  620  ls
+  621  cd ..
+  622  cd ..
+  623  cd ..
+  624  cd Alex/
+  625  ls
+  626  cd Junto/
+  627  cd ../../Applications
+  628  cd ../../../Applications
+  629  cd ../Desktop/Dropbox/HWiE
+  630  cd ../..
+  631  cd Dropbox
+  632  ls
+  633  cd PICS\ --\ Important/
+  634  cd ..
+  635  cd ..
+  636  cd 
+  637  ls
+  638  cd Desktop
+  639  cd Alex/
+  640  ls
+  641  cd Junto/
+  642  ls~
+  643  ls ~
+  644  ls /
+  645  ls etc
+  646  ls -etc
+  647  ls home
+  648  ls ~ -rt
+  649  ls -rt
+  650  cd ..
+  651  cd ../..
+  652  cd Desktop
+  653  ls -t 
+  654  ls Dropbox -t
+  655  ls .
+  656  ls ..
+  657  ls ...
+  658  ls ../..
+  659  clear
+  660  history
+  661  history 30  [I listed only last 30 entries on terminal ]
+  662  clear
+  663  history 40
+  664  clear
+  665  history 30 -t [change order of last 30 based on what was new]
+  666  history 10
+  667  history | less [output of history applied to "less" as input]
+  668  pwd
+  669  cd /
+  670  history > moving_around.txt [copy contents of history to file document]
+  671  cd Desktop
+  672  cd /Users/Yon/Desktop
+  673  history> moving_around.txt
