@@ -543,3 +543,5 @@ rm-rf.* (complete wipe out of things
 .   current directory
 ..  back one 
 ls -a  (show me everything including hidden files)
+
+Difference b/w making changes to file that is already staged vs a new file
