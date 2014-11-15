@@ -1,0 +1,22 @@
+
+git repository is a set of points in time showing where we've been.
+
+Each point has a HASH (long number) that identifies it.
+
+touch _____  (creates new file)
+
+HEAD always points to where we currently are on sequence
+
+"master" is first branch (default timeline)
+
+label for "master' moves to new point of commit
+
+create new branch:  git branch git-notes
+
+git branch (to see all branches)
+
+checkout command to change to other branch
+
+git checkout git-notes
+
+touch git_notes.txt
