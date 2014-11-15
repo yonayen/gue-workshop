@@ -20,3 +20,15 @@ checkout command to change to other branch
 git checkout git-notes
 
 touch git_notes.txt
+
+
+git remote -v (to confirm that everything only exists here on my computer)
+
+git remote add origin https://github.com/yonayen/gue-workshop.git
+(using http)
+
+git remote -v
+
+git push -u origin master  (push master to github)!!  
+
+
