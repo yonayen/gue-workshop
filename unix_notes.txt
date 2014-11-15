@@ -498,3 +498,48 @@
   671  cd Desktop
   672  cd /Users/Yon/Desktop
   673  history> moving_around.txt
+
+
+mkdir (make directory) gue_workshop (git unix everyone)
+
+mv (move)
+
+mv moving_around.txt ./gue_workshop/  (moves doc to new location)
+
+period at the beginning ./gue_workshop is to denote "begin here"
+
+./gue_workshop/moving_around.txt ./gue_workshop/unix_notes.txt
+(this is to rename initial document from moving_around.txt to unix_notes.txt
+
+man mv to learn about the command
+
+git config --global user.name "Yonathan Ayenew"
+git config --global user.email 
+"yonayen@gmail.com"
+
+git config --list (all user info on computer)
+
+get into project directory (gue_workshop) before 
+git init
+
+git status
+git add (takes it to staging)
+
+git add unix_notes.txt 
+
+(nothing is permanent until commit)
+
+git commit -m "adding unix notes, first draft"  (m is for message)
+
+git log (info of past commits)
+
+ls -la (flag to see all items in the folder)
+.git directory (in folder) .... if you delete .git directory then file will no longer be tracked by git
+
+rm-rf.* (complete wipe out of things 
+
+.git is hidden file
+
+.   current directory
+..  back one 
+ls -a  (show me everything including hidden files)
